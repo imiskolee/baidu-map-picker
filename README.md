@@ -6,4 +6,4 @@
 
 #### 截图
 
-![截图](blob/master/demo.png)
+![截图](demo.png)
